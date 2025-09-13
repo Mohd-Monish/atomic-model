@@ -7,7 +7,7 @@ This project is a **3D interactive visualization** of the Carbon atom, showing i
 ## 📸 Final Look  
 Here’s the final rendered visualization of the Carbon atom:  
 
-![Carbon Atom Visualization]([./714fe810-5f24-43ff-99c0-c6ae2fcb9690.png](https://mohd-monish.github.io/atomic-model/))  
+![Carbon Atom Visualization](https://mohd-monish.github.io/atomic-model/)  
 
 ---
 
